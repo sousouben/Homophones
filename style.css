@@ -68,10 +68,11 @@ h1 {
   font-size: 16px;
   border: none;
   border-radius: 8px;
-  background-color: #2196f3;
+  box-shadow: 0px 0px 10px 0px #0000006b;
+  background-color: rgb(71 11 82);
   color: white;
   cursor: pointer;
-  display: none;
+  margin-top: 30px;
 }
 #restart:hover {
   background-color: #1976d2;
